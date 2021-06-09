@@ -3,6 +3,9 @@ This repository contains the implementation of two OpenAI Gym environments for t
 
 ### In this flappy.py file I train the Neural Network model with reinforcement learning approach.
 ## Performance of trained Agent
+https://user-images.githubusercontent.com/51924622/121337387-1dca1080-c93a-11eb-9b9f-61bf00bc327f.mp4 
+
+<br>
 To check the performance and visualize the agent uncomment the agent.perform() and comment the agent.train() in the flappy.py file. <br>
 if __name__ == '__main__':<br>
     &nbsp; agent = DQNAgent()<br>
