@@ -25,5 +25,9 @@ if __name__ == '__main__':<br>
 ![Capture](https://user-images.githubusercontent.com/51924622/121318915-52819c00-c929-11eb-9062-cf8e6ce1c795.PNG)<br>
 
 ### After training the model is saved by name "flappybrain.h5" shown in this repository.<br>
-
+## Requirements:
+- flappy-bird-gym
+- numpy
+- tensorflow 
+### Fork and Run the flappy.py file to see the result.
 
